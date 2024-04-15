@@ -9,7 +9,7 @@
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/herbersonn)
-[![Gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusfalcao111111@gmail.com)
+[![Gmail.com](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:viniciusfalcao111111@gmail.com)
 
 
       
