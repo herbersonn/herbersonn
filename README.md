@@ -11,9 +11,19 @@
     </a>
 </h2>
 
+## 🚀 Sobre mim
+Sou estudante do **3º ano do Ensino Médio Técnico em Informática**, gamado em desenvolvimento e sempre buscando aprimorar minhas habilidades. Atualmente, estou estudando **o framework Spring Boot** e outras tecnologias para construir aplicações robustas.
+
+## 🎯 Em busca de estágio!
+Atualmente, estou **buscando um estágio na área de desenvolvimento** para aplicar meus conhecimentos e adquirir experiência prática. Tenho interesse especial em **desenvolvimento backend, bancos de dados e APIs REST**, mas sempre disponível para o que der e vier!!. 
+
+Se você tem uma oportunidade ou deseja trocar experiências, fique à vontade para entrar em contato! 📩
+
 ## Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/herbersonn)
 [![Gmail.com](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:viniciusfalcao111111@gmail.com)
+[linkedin.com/in/seu-perfil](https://www.linkedin.com/in/herberson-falcao)
+[![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/herbersonn)
+
 
 ## Habilidades
 ![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)
