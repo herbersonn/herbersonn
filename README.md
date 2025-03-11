@@ -21,7 +21,7 @@ Se você tem uma oportunidade ou deseja trocar experiências, fique à vontade p
 
 ## Conecte-se comigo
 [![Gmail.com](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:viniciusfalcao111111@gmail.com)
-[linkedin.com/in/seu-perfil](https://www.linkedin.com/in/herberson-falcao)
+[![linkedin.com](https://www.linkedin.com/in/herberson-falcao)
 [![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/herbersonn)
 
 
