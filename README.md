@@ -34,10 +34,8 @@
 
 
 ## Bibliotecas e Frameworks
-![JQuery](https://img.shields.io/badge/JQuery-3f3f3f?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![React](https://img.shields.io/badge/React-3f3f3f?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-3f3f3f?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-3f3f3f?style=for-the-badge&logo=angular&logoColor=C3002F)
+
+
 ![Spring](https://img.shields.io/badge/Spring-3f3f3f?style=for-the-badge&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3f3f3f?style=for-the-badge&logo=springboot&logoColor=239120)
 
