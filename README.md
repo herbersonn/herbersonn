@@ -5,6 +5,11 @@
 
 <div>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <h2 align="center">
     <a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=8A2BE2&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" style="max-width: 100%;">
