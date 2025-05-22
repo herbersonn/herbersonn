@@ -1,20 +1,12 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=console.log(%22hello+world%2C+i'm+Herberson!%22))](https://git.io/typing-svg) -->
 <!-- TEXTO QUE APARECE E DESAPARECE -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=180&section=header&text=Herberson%20Vinícius&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=180&section=header&text=Herberson%20Vinícius%20Sousa%20Falcão&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I+e+programador%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=180&section=header&text=Herberson%20Vinícius&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Example Usage - README Typing SVG">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=007bff&size=40&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Herberson;Sou+estudante+de+T.I+e+programador;Seja+bem-vindo(a)+:D)](https://git.io/typing-svg)
 
-<!--<h2 align="center">
-    <a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow">
-        <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=8A2BE2&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" style="max-width: 100%;">
-    </a>
-</h2>-->
 
 ## 🚀 Sobre mim
 Sou estudante do **3º ano do Ensino Médio Técnico em Informática**, gamado em desenvolvimento e sempre buscando aprimorar minhas habilidades. Atualmente, estou estudando **o framework Spring Boot** e outras tecnologias para construir aplicações robustas.
