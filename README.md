@@ -5,16 +5,16 @@
 
 <div>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Renan+Oliveira+Nunes%3B+Sou+estudante+de+T.I+e+programador%3B+Seja+bem-vindo(a)+:0)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=180&section=header&text=Herberson%20Vinícius&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Example Usage - README Typing SVG">
 </p>
 
-<h2 align="center">
+<!--<h2 align="center">
     <a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=8A2BE2&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" style="max-width: 100%;">
     </a>
-</h2>
+</h2>-->
 
 ## 🚀 Sobre mim
 Sou estudante do **3º ano do Ensino Médio Técnico em Informática**, gamado em desenvolvimento e sempre buscando aprimorar minhas habilidades. Atualmente, estou estudando **o framework Spring Boot** e outras tecnologias para construir aplicações robustas.
