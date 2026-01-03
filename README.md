@@ -9,7 +9,7 @@
 
 
 ## 🚀 Sobre mim
-Sou estudante do **3º ano do Ensino Médio Técnico em Informática**, gamado em desenvolvimento e sempre buscando aprimorar minhas habilidades. Atualmente, estou estudando **o framework Spring Boot** e outras tecnologias para construir aplicações robustas.
+Formado **Ensino Médio Técnico em Informática**, gamado em desenvolvimento e sempre buscando aprimorar minhas habilidades. Atualmente, estou estudando **o framework Spring Boot** e outras tecnologias para construir aplicações robustas.
 
 ## 🎯 Em busca de estágio!
 Atualmente, estou **buscando um estágio na área de desenvolvimento** para aplicar meus conhecimentos e adquirir experiência prática. Tenho interesse especial em **desenvolvimento backend, bancos de dados e APIs REST**, mas sempre disponível para o que der e vier!!. 
