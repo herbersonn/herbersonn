@@ -8,13 +8,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=007bff&size=40&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Herberson;Sou+estudante+de+T.I+e+programador;Seja+bem-vindo(a)+:D)](https://git.io/typing-svg)
 
 
-## 🚀 Sobre mim
-Formado **Ensino Médio Técnico em Informática**, gamado em desenvolvimento e sempre buscando aprimorar minhas habilidades. Atualmente, estou estudando **o framework Spring Boot** e outras tecnologias para construir aplicações robustas.
+# 🚀 Sobre mim
 
-## 🎯 Em busca de estágio!
-Atualmente, estou **buscando um estágio na área de desenvolvimento** para aplicar meus conhecimentos e adquirir experiência prática. Tenho interesse especial em **desenvolvimento backend, bancos de dados e APIs REST**, mas sempre disponível para o que der e vier!!. 
+🎓 Estudante de **Estatística na Universidade Federal do Ceará (UFC)** e formado em **Técnico em Informática** pela EEEP Profª Luiza de Teodoro Vieira.
 
-Se você tem uma oportunidade ou deseja trocar experiências, fique à vontade para entrar em contato! 📩
+💻 Tenho experiência com desenvolvimento back-end utilizando tecnologias como **Java, PHP, Python, PostgreSQL e APIs REST**, além de conhecimentos em arquitetura MVC, banco de dados e integração de sistemas.
+
+📊 Atualmente, busco unir programação e análise de dados para desenvolver soluções eficientes, escaláveis e inteligentes, aprofundando meus estudos em tecnologias como **Laravel, Spring Boot** e ferramentas voltadas à área de dados.
+
+---
+
+# 🎯 Objetivos
+
+Atualmente, estou em busca de oportunidades para crescer profissionalmente nas áreas de:
+
+- Desenvolvimento Back-end  
+- Banco de Dados  
+- APIs REST  
+- Dados e Estatística Aplicada  
+
+Sempre buscando aprender novas tecnologias, evoluir tecnicamente e participar de projetos que gerem impacto real.
 
 ## Conecte-se comigo
 [![Gmail.com](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sousaherberson@gmail.com@gmail.com)
