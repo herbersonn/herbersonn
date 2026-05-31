@@ -1,76 +1,95 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=console.log(%22hello+world%2C+i'm+Herberson!%22))](https://git.io/typing-svg) -->
-<!-- TEXTO QUE APARECE E DESAPARECE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Herberson%20Vinícius%20Sousa%20Falcão&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=180&section=header&text=Herberson%20Vinícius%20Sousa%20Falcão&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<div align="center">
 
-<div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+Herberson+Falcão+👋;Estudante+de+Estatística+na+UFC+📊;Desenvolvedor+Back-end+💻;Python+•+Java+•+SQL+•+Dados;Bem-vindo(a)+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=007bff&size=40&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Herberson;Sou+estudante+de+T.I+e+programador;Seja+bem-vindo(a)+:D)](https://git.io/typing-svg)
+</div>
 
+---
 
 # 🚀 Sobre mim
 
-🎓 Estudante de **Estatística na Universidade Federal do Ceará (UFC)** e formado em **Técnico em Informática** pela EEEP Profª Luiza de Teodoro Vieira.
+🎓 Atualmente curso **Estatística na Universidade Federal do Ceará (UFC)** e sou formado em **Técnico em Informática** pela EEEP Profª Luiza de Teodoro Vieira.
 
-💻 Tenho experiência com desenvolvimento back-end utilizando tecnologias como **Java, PHP, Python, PostgreSQL e APIs REST**, além de conhecimentos em arquitetura MVC, banco de dados e integração de sistemas.
+💻 Possuo experiência com desenvolvimento back-end, trabalhando com **Java, PHP, Python, PostgreSQL, APIs REST e arquitetura MVC**, além de banco de dados e integração de sistemas.
 
-📊 Atualmente, busco unir programação e análise de dados para desenvolver soluções eficientes, escaláveis e inteligentes, aprofundando meus estudos em tecnologias como **Laravel, Spring Boot** e ferramentas voltadas à área de dados.
+📊 Tenho interesse em áreas que unem **programação, estatística e análise de dados**, buscando desenvolver soluções escaláveis, orientadas por dados e apoiadas por inteligência artificial.
+
+🚀 Estou constantemente aprimorando meus conhecimentos em **Spring Boot, Laravel, SQL, Python e Machine Learning**.
 
 ---
 
 # 🎯 Objetivos
 
-Atualmente, estou em busca de oportunidades para crescer profissionalmente nas áreas de:
+Atualmente busco oportunidades para desenvolver experiência prática nas áreas de:
 
-- Desenvolvimento Back-end  
-- Banco de Dados  
-- APIs REST  
-- Dados e Estatística Aplicada  
+- Desenvolvimento Back-end
+- Banco de Dados
+- Engenharia de Dados
+- Análise de Dados
+- Inteligência Artificial
+- Estatística Aplicada
 
-Sempre buscando aprender novas tecnologias, evoluir tecnicamente e participar de projetos que gerem impacto real.
+Meu objetivo é unir conhecimento técnico e analítico para construir soluções que gerem impacto real.
 
-## Conecte-se comigo
-[![Gmail.com](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sousaherberson@gmail.com@gmail.com)
-[![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberson-falcao)
+---
+
+# 🌐 Conecte-se comigo
+
+[![Gmail](https://img.shields.io/badge/Gmail-3f3f3f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sousaherberson@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberson-falcao)
+
 [![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/herbersonn)
 
+---
 
-## Habilidades
-![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)
+# 🛠️ Ferramentas e Tecnologias
+
 ![Git](https://img.shields.io/badge/Git-3f3f3f?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-3f3f3f?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-3f3f3f?style=for-the-badge&logo=postman)
 ![Insomnia](https://img.shields.io/badge/Insomnia-3f3f3f?style=for-the-badge&logo=insomnia)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3f3f3f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![NPM](https://img.shields.io/badge/NPM-3f3f3f?style=for-the-badge&logo=npm)
+![VS Code](https://img.shields.io/badge/VS_Code-3f3f3f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-## Linguagens de Marcação e Estilo
-![Markdown](https://img.shields.io/badge/Markdown-3f3f3f?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-3f3f3f?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-3f3f3f?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-3f3f3f?style=for-the-badge&logo=sass)
+---
 
-## Linguagens de Programação
+# 💻 Linguagens
+
+![Java](https://img.shields.io/badge/Java-3f3f3f?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3f3f3f?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-3f3f3f?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3f3f3f?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-3f3f3f?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3f3f3f?style=for-the-badge&logo=python&logoColor=blue)
 
-## Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-3f3f3f?style=for-the-badge&logo=mysql)
+---
+
+# 🗄️ Banco de Dados
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f3f3f?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-3f3f3f?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-3f3f3f?style=for-the-badge&logo=sqlite)
 
-## Bibliotecas e Frameworks
-![Spring](https://img.shields.io/badge/Spring-3f3f3f?style=for-the-badge&logo=spring)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3f3f3f?style=for-the-badge&logo=springboot&logoColor=239120)
+---
 
-## GitHub Stats
-<div align="left"> 
-    <img height="350" align="center" src="https://github-readme-stats.vercel.app/api?username=herbersonn&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-<div align="left"> 
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herbersonn&theme=tokyonight&hide_border=true" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbersonn&show_icons=true&layout=donut&theme=tokyonight&hide_border=true" />
+# ⚙️ Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3f3f3f?style=for-the-badge&logo=springboot)
+![Laravel](https://img.shields.io/badge/Laravel-3f3f3f?style=for-the-badge&logo=laravel)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herbersonn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=herbersonn&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbersonn&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
